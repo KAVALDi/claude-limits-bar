@@ -39,7 +39,11 @@
 claude plugin install limits --marketplace KAVALDi/claude-limits-bar
 ```
 
-В приложении, где `/plugin` не работает: **+** рядом с полем ввода → **Plugins** → **Add marketplace** с `KAVALDi/claude-limits-bar` → **Add plugin**.
+В приложении, где `/plugin` не работает: **Настройки → Персонализация → Плагины → Добавить**, затем укажите `KAVALDi/claude-limits-bar`:
+
+<p align="center">
+  <img src="assets/install-ru.gif" alt="Установка плагина в приложении" width="80%">
+</p>
 
 ## Использование
 

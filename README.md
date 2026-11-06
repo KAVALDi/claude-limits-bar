@@ -56,7 +56,11 @@ From a shell:
 claude plugin install limits --marketplace KAVALDi/claude-limits-bar
 ```
 
-In the desktop app, where `/plugin` does not run: click **+** next to the prompt box, then **Plugins** → **Add marketplace** with `KAVALDi/claude-limits-bar` → **Add plugin**.
+In the desktop app, where `/plugin` does not run: open **Settings → Customize → Plugins → Add** and enter `KAVALDi/claude-limits-bar`:
+
+<p align="center">
+  <img src="assets/install-en.gif" alt="Installing the plugin in the desktop app" width="80%">
+</p>
 
 ## Usage
 
