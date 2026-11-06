@@ -1,0 +1,23 @@
+{
+  "name": "limits",
+  "version": "0.1.0",
+  "description": "Shows the remaining 5-hour and weekly usage limits with reset times, in the status line and in a band above the prompt.",
+  "author": {
+    "name": "KAVALDi"
+  },
+  "license": "MIT",
+  "icon": "./assets/icon.png",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Language",
+      "description": "Language of the labels: en or ru",
+      "default": "en",
+      "options": [
+        "en",
+        "ru"
+      ]
+    }
+  }
+}

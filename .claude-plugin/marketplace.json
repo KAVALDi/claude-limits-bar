@@ -1,0 +1,5 @@
+{
+  "name": "claude-limits-bar",
+  "owner": { "name": "KAVALDi" },
+  "plugins": [{ "name": "limits", "source": "./" }]
+}

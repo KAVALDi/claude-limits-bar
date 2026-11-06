@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18181b"/><stop offset="1" stop-color="#27272a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="84" font-weight="700" fill="#fafafa">limits</text>
+  <text x="82" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" fill="#a1a1aa">5-hour and weekly Claude usage, always in sight</text>
+  <g transform="translate(760,95)">
+    <rect width="440" height="44" rx="22" fill="#3f3f46"/><rect width="374" height="44" rx="22" fill="#4ade80"/>
+    <rect y="76" width="440" height="44" rx="22" fill="#3f3f46"/><rect y="76" width="154" height="44" rx="22" fill="#facc15"/>
+    <rect y="152" width="440" height="44" rx="22" fill="#3f3f46"/><rect y="152" width="52" height="44" rx="22" fill="#ef4444"/>
+  </g>
+</svg>
